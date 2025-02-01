@@ -68,6 +68,11 @@
         margin: auto;
         padding: 15px;
     }
+     .whatsapp {
+        position: fixed;
+        bottom: 15px;
+        right: 5px;
+    }
 
     footer {
         text-align: center;
